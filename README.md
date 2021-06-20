@@ -19,13 +19,12 @@
 - 依需求放入 AWS S3 & Facebook & Google 對應之金鑰
 
 ## 組員 GitHub 連結與聯絡資訊
-- [賴賴](https://github.com/prettyfighty)
-  - Email: prettyfighty@gmail.com
-- [中睿](https://github.com/rueijunghsu)
-  - Email: ray199185@gmail.com
-- [聖允](https://github.com/sheng87)
-  - Email: shengff15@gmail.com
 - [宜宸](https://github.com/AlexChzuang)
   - Email: ball16357@gmail.com
-- [夢珊](https://github.com/KellyKelly0808)
-  - Email: withnature1030@gmail.com
+- [賴賴](https://github.com/prettyfighty)
+  - Email: prettyfighty@gmail.com
+- [聖允](https://github.com/sheng87)
+  - Email: shengff15@gmail.com
+- [中睿](https://github.com/rueijunghsu)
+  - Email: ray199185@gmail.com
+
